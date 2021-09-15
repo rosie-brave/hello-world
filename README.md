@@ -1,2 +1,3 @@
 # hello-world
-test repository using GitHub tutorial
+
+I'm a Diet Coke addict and owner to two indifferent cats. 
