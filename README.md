@@ -1,4 +1,3 @@
 # hello-world
-test repository using GitHub tutorial
 
-Diet coke addict and owner to two indifferent cats. 
+I'm a Diet Coke addict and owner to two indifferent cats. 
